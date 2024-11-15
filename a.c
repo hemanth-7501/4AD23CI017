@@ -1,1 +1,1 @@
-simple message 
+Resolved conflict
